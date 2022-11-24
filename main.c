@@ -23,7 +23,7 @@ int main(){
     }
 
    // print the Amstrong numbers. 
-    printf("\nThe Armstrong numbers are: ");
+    printf("The Armstrong numbers are: ");
     c = small;
     while (c<=big){
         status = isArmstrong(c);
